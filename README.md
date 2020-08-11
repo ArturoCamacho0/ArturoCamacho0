@@ -4,8 +4,6 @@ I'm a Web Developer specialized on the Frontend with knowledges about the Backen
 My passion in the software development is the Artificial Intelligence, I'm excited about the things that you can do applying this awesome knowledge!
 
 You can see my social media and my projects here:
-
-Redes sociales y proyectos:
 - Facebook - [Arturo Camacho](https://www.facebook.com/ArturoCH0)
 - Instagram - [arturocamach0](https://www.instagram.com/arturocamach0/)
 - LinedIn - [Arturo Camacho](https://www.linkedin.com/in/arturocamacho0/)
